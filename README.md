@@ -1,3 +1,3 @@
 # calculadora-ReactNative
 
-Simples Calculadora em React Native000000
+Simples Calculadora em React Native
